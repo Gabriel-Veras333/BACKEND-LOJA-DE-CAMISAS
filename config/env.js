@@ -10,4 +10,4 @@ export const CONTACT_EMAIL =
 // BASE da API (sandbox ou produção)
 export const API_BASE =
   (process.env.MELHOR_ENVIO_BASE ??
-    "https://api.melhorenvio.com.br").trim();
+    "https://www.melhorenvio.com.br").trim();
